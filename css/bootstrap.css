@@ -1427,9 +1427,7 @@ figure {
 }
 
 img {
-    vertical-align: middle;
-    width: 100%;
-    height: 100%;
+    vertical-align: middle
 }
 
 .carousel-inner>.item>a>img,
@@ -7797,8 +7795,7 @@ button.close {
 .center-block {
     display: block;
     margin-right: auto;
-    margin-left: auto;
-    width: 100px;
+    margin-left: auto
 }
 
 .pull-right {
