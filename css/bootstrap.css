@@ -4279,7 +4279,7 @@ tbody.collapse.in {
     transition-property: height, visibility
 }
 
-.caret {
+/*.caret {
     display: inline-block;
     width: 0;
     height: 0;
@@ -4289,7 +4289,7 @@ tbody.collapse.in {
     border-top: 4px solid\9;
     border-right: 4px solid transparent;
     border-left: 4px solid transparent
-}
+} */
 
 .dropdown,
 .dropup {
@@ -4373,7 +4373,7 @@ tbody.collapse.in {
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
+    /*filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)*/
 }
 
 .open>.dropdown-menu {
