@@ -2069,6 +2069,12 @@ pre code {
     padding-left: 15px
 }
 
+.col-sm-3
+{
+    width: 25%;
+    float: left;
+}
+
 .col-xs-1,
 .col-xs-10,
 .col-xs-11,
@@ -2294,7 +2300,6 @@ pre code {
     .col-sm-11,
     .col-sm-12,
     .col-sm-2,
-    .col-sm-3,
     .col-sm-4,
     .col-sm-5,
     .col-sm-6,
@@ -2329,9 +2334,6 @@ pre code {
     }
     .col-sm-4 {
         width: 33.33333333%
-    }
-    .col-sm-3 {
-        width: 25%
     }
     .col-sm-2 {
         width: 16.66666667%
