@@ -507,7 +507,7 @@ button {
 }
 
 .form-control {
-    border-color: rgba(0, 0, 0, .1);
+    border-color: rgba(0, 0, 0, .5);
     box-shadow: none;
 }
 
@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -1040,4 +1040,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.bloc-form
+{
+    width: 100%! important;
 }
